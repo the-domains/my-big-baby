@@ -1,0 +1,28 @@
+name: My Big Baby
+favicon: null
+layout_spectrum: 0.4403720034752041
+typography_spectrum: 0.9289176454767585
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.08244765247218311
+  lightness: 0.7442837213166058
+  saturation: 0.21404989692382514
+  rhythmicContrast: 0.26970940246246755
+purpose: []
